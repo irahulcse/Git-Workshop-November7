@@ -1,2 +1,2 @@
-# Wotkdhop
-First Ptojrvy
+# Workshop
+For CSE Students of Chandigarh University.
